@@ -39,3 +39,4 @@ The web application was built using HTML, CSS, and JavaScript, with the Flask we
 ## Conclusion
 This project demonstrates the power of machine learning in image classification and showcases how a machine learning model can be integrated into a web application. It also highlights the importance of using a full stack approach when building machine learning applications, and how Python, HTML, CSS, and JavaScript can be used together to build powerful applications.
 
+![image_2023-04-13_143026035](https://user-images.githubusercontent.com/115225579/231774231-50419f98-f801-42aa-aa63-34f2e97b6e0f.png)
